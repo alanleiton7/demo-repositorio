@@ -1,6 +1,7 @@
 cambio desde maquina trabajo
 cambio desde maquina personal  
 master
+cambio 2 desde maquina personal 
 
 rama
 
